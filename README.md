@@ -1,4 +1,4 @@
-![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/f1955df0-e48d-43bb-b99b-546148797834)# vlsi-exp-6
+
 
 # SIMULATE AND SYNTHESIS INVERTER USING CADENCE
 
@@ -131,8 +131,4 @@ Setup for D.C analysis
 The schematic and simulate inverter using CADENCE is done and verified successfull.
 
 
-
-## RESULT:
-
- The schematic and simulate inverter using CADENCE is done and verified successfully.
 
