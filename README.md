@@ -91,30 +91,44 @@ Setup for D.C analysis
 
 
 
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/c2296d18-3fed-4cfa-8223-f60bca9cb4d7)
 
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/4e95ddcd-8c03-4e4e-89bd-34a787cc765e)
 
 
 ## OUTPUT:
+
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/69fafee7-5935-4c58-bf12-8a3641348e42)
 
 
 
 ## NANDGATE:
 
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/73dc9949-16b6-43fa-a127-32805bfb6b18)
 
 
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/17a09e43-c09e-4caf-a720-4d89e479dd29)
 
 
 ## OUTPUT:
 
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/a6079a42-70f2-4296-a816-0995c0718d6c)
 
 
 ## NORGATE:
 
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/e82faea4-5091-48a5-9af3-e056f9f83bc2)
 
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/8ceadcd8-26eb-4495-80fd-194071413e41)
 
 
 ## OUTPUT:
 
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/336c20db-480a-49ce-b74f-311cdbe2d728)
+
+## RESULT:
+
+The schematic and simulate inverter using CADENCE is done and verified successfull.
 
 
 
