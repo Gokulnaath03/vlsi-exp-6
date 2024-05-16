@@ -1,16 +1,16 @@
 # vlsi-exp-6
 
-#SIMULATE AND SYNTHESIS INVERTER USING CADENCE
+# SIMULATE AND SYNTHESIS INVERTER USING CADENCE
 
-#AIM:
+## AIM:
 
 To Simulate and Synthesis Inverter using CADENCE
 
-#APPARATUS REQUIRED:
+## APPARATUS REQUIRED:
 
 VIVADO 2023.2
 
-#PROCEDURE:
+## PROCEDURE:
 
 STEP:1 Cadence Virtuoso open procedere
 STEP:2 Open MobaXterm
@@ -38,16 +38,16 @@ STEP:16 Choose the folder where you. need to work
 STEP:17 File cell veew choose library Type coll name
 STEP:18 Schematic windere will be opened
 
-#INVERTER:
+## INVERTER:
 
 ![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/ebcfce6b-519d-4eb8-a613-a9ff2945b639)
 
 
-#OUTPUT:
+## OUTPUT:
 
 ![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/6bd3b2b5-9f57-4364-a09e-6df812b91a5a)
 
-#NAND:
+## NAND:
 
 ![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/33e767da-38ea-4a1f-98bf-1887c0ffe2ba)
 
