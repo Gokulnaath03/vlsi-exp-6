@@ -11,7 +11,7 @@ CADENCE VIRTUOSO.
 
  ## PROCEDURE:
 
-Procedure for Commands to get into Cadence
+## Procedure for Commands to get into Cadence
 1. Right Click and open the terminal window
 2. Type the following commands as follows and press enter.<br>
 i) tcsh<br>
