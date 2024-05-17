@@ -9,7 +9,7 @@ To Schematic and Simulate Inverter using CADENCE virtuoso.
 
 Procedure for Commands to get into Cadence
 1. Right Click and open the terminal window
-2. Type the following commands as follows and press enter.
+2. Type the following commands as follows and press enter.<br>
 i) tcsh<br>
 ii) source /home/install/cshrc<br>
 iii) virtuoso
