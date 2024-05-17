@@ -5,6 +5,10 @@
 ## AIM:
 To Schematic and Simulate Inverter using CADENCE virtuoso.
 
+## APPARATUS REQUIRED:
+
+CADENCE VIRTUOSO.
+
  ## PROCEDURE:
 
 Procedure for Commands to get into Cadence
