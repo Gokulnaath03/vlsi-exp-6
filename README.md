@@ -129,7 +129,10 @@ Setup for D.C analysis<br>
 
 ## OUTPUT:
 
-![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/336c20db-480a-49ce-b74f-311cdbe2d728)
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/336c20db-480a-49ce-b74f-311cdbe2d728).
+
+
+
 
 ## RESULT:
 
