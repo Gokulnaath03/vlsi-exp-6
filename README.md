@@ -1,9 +1,9 @@
 # EXP 6:
 
-# SIMULATE AND SYNTHESIS INVERTER USING CADENCE
+# SCHEMATIC AND SIMULATION OF CMOS INVERTOR USING CADENCE VIRTUOSO.
 
 ## AIM:
-To Schematic and Simulate Inverter using CADENCE virtuoso.
+To Schematic and Simulate Invertor  using CADENCE virtuoso.
 
 ## APPARATUS REQUIRED:
 
@@ -94,42 +94,35 @@ Setup for D.C analysis<br>
 
 ## CMOS INVERTER:
 
-
-
-![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/c2296d18-3fed-4cfa-8223-f60bca9cb4d7)
-
-![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/4e95ddcd-8c03-4e4e-89bd-34a787cc765e)
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/c120c993-b3a6-4b23-87c3-ca4b5be25424)
 
 
 ## OUTPUT:
 
-![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/69fafee7-5935-4c58-bf12-8a3641348e42)
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/e1b6166b-1ab8-4740-92b9-529e15fee357)
+
 
 
 
 ## NANDGATE:
 
-![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/73dc9949-16b6-43fa-a127-32805bfb6b18)
-
-
-![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/17a09e43-c09e-4caf-a720-4d89e479dd29)
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/c40e87f6-a544-459a-8d32-e6fda558f7be)
 
 
 ## OUTPUT:
 
-![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/a6079a42-70f2-4296-a816-0995c0718d6c)
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/afcb84c7-458c-4c39-9b99-ac66ff06f51a)
 
 
 ## NORGATE:
 
-![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/e82faea4-5091-48a5-9af3-e056f9f83bc2)
 
-![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/8ceadcd8-26eb-4495-80fd-194071413e41)
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/793328f0-050e-482f-8043-05e79a26a1f7)
 
 
 ## OUTPUT:
 
-![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/336c20db-480a-49ce-b74f-311cdbe2d728).
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/d84f9fcf-d190-4c86-8e42-4f30037b8967)
 
 
 
