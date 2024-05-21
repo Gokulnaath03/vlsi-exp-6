@@ -93,42 +93,29 @@ Setup for D.C analysis<br>
 3. Start = -1 Stop = 1 resp.
 
 ## CMOS INVERTER:
-
 ![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/c120c993-b3a6-4b23-87c3-ca4b5be25424)
 
 
 ## OUTPUT:
-
-![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/e1b6166b-1ab8-4740-92b9-529e15fee357)
-
-
+![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/e1b6166b-1ab8-4740-92b9-529e15fee357).
 
 
 ## NANDGATE:
-
 ![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/c40e87f6-a544-459a-8d32-e6fda558f7be)
 
 
 ## OUTPUT:
-
 ![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/afcb84c7-458c-4c39-9b99-ac66ff06f51a)
 
 
 ## NORGATE:
-
-
 ![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/793328f0-050e-482f-8043-05e79a26a1f7)
 
 
 ## OUTPUT:
-
 ![image](https://github.com/Gokulnaath03/vlsi-exp-6/assets/167178811/d84f9fcf-d190-4c86-8e42-4f30037b8967)
 
-
-
-
 ## RESULT:
-
 The schematic and simulate inverter using CADENCE is done and verified successfull.
 
 
